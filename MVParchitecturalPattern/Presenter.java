@@ -1,7 +1,3 @@
-import javax.swing.*;
-import java.util.*;
-
-
 public class Presenter implements ViewListener {
     private final View view;
     private final Model model;

@@ -1,5 +1,4 @@
-import javax.swing.*;
-import java.util.*;
+import javax.swing.SwingUtilities;
 
 public class Application {
     public Application() {
